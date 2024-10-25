@@ -59,7 +59,7 @@ else{
     return (
     <div className="app">
       <header className="header">
-        <h1>TODO LIST</h1>
+        <h1>TODO LIST APPLICATION</h1>
       </header>
       <div className='spacing'>
       <select value={category}onChange={(e) => setCategory(e.target.value)}>
